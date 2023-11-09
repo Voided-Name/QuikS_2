@@ -1,0 +1,29 @@
+---
+---
+|||
+[y]=[1.000000,2.000000,3.000000]
+|||
+>>> [y] = [1,2,3]
+added dataset
+>>> datas()
+(ERROR)
+>>> mean([y])
+no operands
+>>> [y] = [1, 2, 3, 4, 5]
+changed dataset
+>>> mean([y])
+no operands
+>>> 1 + 1
+2
+>>> 234 + 234 / 234
+235
+>>> [y] = [1, 2, 3]
+changed dataset
+>>> mean([y])
+no operands
+>>> pow(3,2)
+9
+>>> mean(23, 23, 23)
+23
+>>> mean([y])
+(ERROR)
