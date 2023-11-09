@@ -19,7 +19,7 @@ map<string, vector<double>> data_sets;
 // misc
 void clear_screen()
 {
-  // system("CLS");
+  system("CLS");
 }
 void enter_to_continue()
 {
